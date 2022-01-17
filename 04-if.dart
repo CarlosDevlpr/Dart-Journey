@@ -1,5 +1,5 @@
 void main() {
-  String aluno = 'Carlos';
+  // String aluno = 'Carlos';
   double prova1 = 4;
   double prova2 = 5;
   double prova3 = 7;
